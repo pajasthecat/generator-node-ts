@@ -1,0 +1,10 @@
+{
+    "name": "<%= title %>",
+    "type": "module",
+    "description": "",
+    "scripts": {
+      "test": "jest",
+      "build": "npx tsc",
+      "dev": "npm run build && node build/index.js"    
+    }
+}

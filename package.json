@@ -1,0 +1,15 @@
+{
+  "name": "generator-node-ts-basic",
+  "version": "0.1.0",
+  "description": "",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "typescript": "^4.8.4",
+    "yeoman-generator": "^5.7.0"
+  }
+}
